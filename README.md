@@ -78,7 +78,7 @@ The main goals of this chatbot project are:
 
 See the chatbot in action below:
 
-👉 **[Watch the Demo Video](building_cliqtrix_2025_chatbot_for_zoho_cliq_conte)**
+👉 **[Watch the Demo Video](building_cliqtrix_2025_chatbot_for_zoho_cliq_conte.mp4)**
 
 The demo demonstrates:
 
@@ -92,6 +92,7 @@ The demo demonstrates:
 ---
 
 # 📸 Screenshots
+<img width="2240" height="1260" alt="Screenshot 2026-03-10 at 10 32 00 AM" src="https://github.com/user-attachments/assets/567cf735-8acb-4bf1-b97d-23ea0aa32d30" />
 
 
 
