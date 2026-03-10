@@ -92,19 +92,48 @@ The demo demonstrates:
 ---
 
 # 📸 Screenshots
-<img width="2240" height="1260" alt="Screenshot 2026-03-10 at 10 32 00 AM" src="https://github.com/user-attachments/assets/567cf735-8acb-4bf1-b97d-23ea0aa32d30" />
+
+## 🛍 Shopify Store with Chatbot Integration
+
+The chatbot is embedded inside the Shopify store using the Zoho SalesIQ live chat widget.  
+Users can interact with the bot directly while browsing products.
+
+<img width="2240" height="1260" alt="Screenshot 2026-03-10 at 10 31 13 AM" src="https://github.com/user-attachments/assets/b9d2b075-54cc-4766-ac1a-f604775a7666" />
+
+
+---
+
+## 💬 Chatbot Product Browsing Interaction
+
+The chatbot helps users explore products and navigate categories directly within the chat interface.  
+It provides product images, links, and quick action buttons to improve the shopping experience.
+
+<img width="2240" height="1260" alt="Screenshot 2026-03-10 at 10 32 00 AM" src="https://github.com/user-attachments/assets/b3ce9613-a2ad-4e2b-8db4-6f3f8efa0d4d" />
+
+
+---
+
+## ⚙️ Zoho SalesIQ Workflow Builder
+
+This screenshot shows the chatbot workflow created using the Zoho SalesIQ block-based builder.  
+Each block represents a conversation step that guides users through product browsing, ordering, and navigation.
+
+<img width="4476" height="2286" alt="image" src="https://github.com/user-attachments/assets/23e0516c-b538-4de1-91c9-e056794a8b5c" />
+
 
 
 
 ### 💬 Chatbot Interaction
 
-(Add chatbot screenshot here)
+<img width="738" height="984" alt="image" src="https://github.com/user-attachments/assets/a077907b-7744-45aa-aa5a-be794222ef71" />
+
 
 ---
 
 ### ⚙️ Workflow Builder
 
-(Add workflow screenshot here)
+<img width="3542" height="2082" alt="image" src="https://github.com/user-attachments/assets/632601a0-b747-4f01-b324-210db93606d2" />
+
 
 ---
 
