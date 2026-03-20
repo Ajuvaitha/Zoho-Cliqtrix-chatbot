@@ -11,7 +11,7 @@
 
 ---
 
-# 📌 Project Overvieww
+# 📌 Project Overview
 
 This project demonstrates an **AI-powered conversational chatbot** built using **Zoho SalesIQ's chatbot builder** and integrated with a **Shopify e-commerce website**.
 
